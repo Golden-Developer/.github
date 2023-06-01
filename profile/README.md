@@ -3,13 +3,18 @@
 [![](https://img.shields.io/badge/Java-18-success?logo=java)](https://www.oracle.com/java/technologies/javase-downloads.html)
 [![](https://img.shields.io/badge/Golden--Developer-Mysql--Api-brightgreen?logo=golden-developer.de/img/Golden-Developer-logo.png)](https://github.com/Golden-Developer/MYSQL-Api)
 [![](https://img.shields.io/badge/Golden--Developer-DC--Backup-brightgreen?logo=golden-developer.de/img/Golden-Developer-logo.png)](https://github.com/Golden-Developer/DC-Backup)
-[![](https://discord.com/api/guilds/817500165866782770/widget.png)](https://discord.gg/0hMr4ce0tIl3SLv5)
+[![](https://discord.com/api/guilds/817500165866782770/widget.png)](https://discord.gg/Q2zVHjYH8Y)
+
+
+<div style="display: flex;justify-content: center; align-content: center">
 
 ![a](https://golden-developer.de/img/GD-logo.png)
 
+</div>
+
 # Golden-Developer
 
-Golden-Developer ist eine Organisation, die sich auf die Entwicklung von Softwareanwendungen und Plugins für verschiedene Plattformen spezialisiert hat. Unser Team besteht aus hochqualifizierten Entwicklern, die HTML, CSS, JavaScript, PHP, Java, SQL, C++, Discord-Bots, Minecraft-Plugins, Teamspeak-Plugins und andere populäre Programmiersprachen beherrschen.
+Golden-Developer ist eine Organisation, die sich auf die Entwicklung von Softwareanwendungen und Plugins für verschiedene Plattformen spezialisiert hat. Unser Team besteht aus hochqualifizierten Entwicklern, die HTML, CSS, JavaScript, PHP, Java, SQL, C++ und andere populäre Programmiersprachen beherrschen.
 
 ## Dienstleistungen
 
@@ -33,5 +38,6 @@ Wir bieten eine breite Palette von Dienstleistungen an, einschließlich, aber ni
 
 ## Kontaktieren Sie uns
 
-Wenn Sie an unseren Dienstleistungen interessiert sind oder Fragen haben, können Sie uns gerne unter <a href="mailto:cohohohn04@gmail.com">cohohohn04@gmail.com<a> kontaktieren. Wir würden uns freuen, von Ihnen zu hören und darüber zu sprechen, wie wir Ihnen bei Ihren Softwareentwicklungswünschen helfen können.
+Wenn Sie an unseren Dienstleistungen interessiert sind oder Fragen haben, können Sie uns gerne unter [email protected] kontaktieren. Wir würden uns freuen, von Ihnen zu hören und darüber zu sprechen, wie wir Ihnen bei Ihren Softwareentwicklungswünschen helfen können.
+
 

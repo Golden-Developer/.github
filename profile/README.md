@@ -38,6 +38,6 @@ Wir bieten eine breite Palette von Dienstleistungen an, einschließlich, aber ni
 
 ## Kontaktieren Sie uns
 
-Wenn Sie an unseren Dienstleistungen interessiert sind oder Fragen haben, können Sie uns gerne unter [email protected] kontaktieren. Wir würden uns freuen, von Ihnen zu hören und darüber zu sprechen, wie wir Ihnen bei Ihren Softwareentwicklungswünschen helfen können.
+Wenn Sie an unseren Dienstleistungen interessiert sind oder Fragen haben, können Sie uns gerne unter <a href="mail:contact@golden-developer.de">contact@golden-developer.de</a> kontaktieren. Wir würden uns freuen, von Ihnen zu hören und darüber zu sprechen, wie wir Ihnen bei Ihren Softwareentwicklungswünschen helfen können.
 
 

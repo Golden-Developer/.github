@@ -44,6 +44,6 @@ We offer a wide range of services, including but not limited to:
 
 ## 📞 Contact Us
 
-If you are interested in our services or have any questions, feel free to contact us at [email protected] We would be
+If you are interested in our services or have any questions, feel free to contact us at contact@golden-developer.de We would be
 delighted to hear from you and discuss how we can assist you with your software development desires.
 
